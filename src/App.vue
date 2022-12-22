@@ -20,6 +20,7 @@ export default {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: rgb(140, 156, 170);
 }
 .app {
   padding: 20px;
